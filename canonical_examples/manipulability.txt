@@ -1,0 +1,5 @@
+tree_NN forest_NN
+brick_NN building_NN
+raindrop_NN thunderstorm_NN
+penny_NN money_NN
+pebble_NN mountain_NN

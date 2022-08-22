@@ -1,0 +1,9 @@
+buy tickets :: attend concert
+pour milk in bowl :: eat cereal
+take shower :: get dressed
+turn in homework :: get grade
+invite people :: have birthday party
+plant seeds :: harvest crops
+open door :: exit room
+start car :: drive car
+board train :: travel on train

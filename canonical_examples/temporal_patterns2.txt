@@ -1,0 +1,7 @@
+cause_NN effect_NN
+cook_VB eat_VB
+seed_NN plant_NN
+alarm_NN awaken_VB
+hunger_NN eat_NN
+pajamas_NN bed_NN
+drive_NN arrive_NN

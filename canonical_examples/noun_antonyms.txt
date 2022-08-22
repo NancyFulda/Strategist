@@ -1,0 +1,10 @@
+cold_NN heat_NN
+order_NN chaos_NN
+creation_NN destruction_NN
+curse_NN blessing_NN
+love_NN hate_NN
+joy_NN grief_NN
+marriage_NN divorce_NN
+question_NN answer_NN
+dust_NN dawn_NN
+night_NN day_NN

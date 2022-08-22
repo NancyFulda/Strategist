@@ -1,0 +1,10 @@
+tree_NN tall_JJ
+grass_NN green_JJ
+suitcase_NN heavy_JJ
+rock_NN jagged_JJ
+breeze_NN gentle_JJ
+water_NN wet_JJ
+lollipop_NN sticky_JJ
+incline_NN steep_JJ
+chair_NN comfy_JJ
+blanket_NN warm_JJ

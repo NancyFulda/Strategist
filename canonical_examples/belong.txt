@@ -1,0 +1,11 @@
+ring_NN finger_NN
+car_NN garage_NN
+book_NN bookshelf_NN
+king_NN throne_NN
+sword_NN sheathe_NN
+arrow_NN quiver_NN
+hat_NN head_NN
+key_NN lock_NN
+treasure_NN chest_NN
+money_NN wallet_NN
+lawyer_NN courtroom_NN

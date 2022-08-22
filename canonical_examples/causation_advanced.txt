@@ -1,0 +1,7 @@
+kill troll :: troll dies
+water plant :: plant grows
+drop ball :: ball falls
+throw rock at window :: window breaks
+cut finger :: finger bleeds
+lift object :: object rises
+unlock door :: door opens

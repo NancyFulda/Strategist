@@ -1,0 +1,8 @@
+kill_VB dead_NN
+eat_VB satiated_JJ
+drop_VB fall_VB
+look_VB see_VB
+travel_VB arrive_VB
+cut_VB bleed_VB
+fear_VB flee_VB
+study_VB ace_VB

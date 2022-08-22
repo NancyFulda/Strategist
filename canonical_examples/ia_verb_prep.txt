@@ -1,0 +1,10 @@
+give from :: give to
+put with :: put on
+remove beside :: remove from
+remove on :: remove from
+put from :: put in
+flee in :: flee from
+climb from :: climb on
+examine in :: eat with
+give under :: search under 
+close from :: crawl beneath

@@ -1,0 +1,19 @@
+You can't do that with a rock :: You can't go that way
+I don't know what that word means :: The mountains are impassible
+I don't know the word 'defenestrate' :: The way is blocked
+What do you want to kill the troll with :: The dragon will not let you pass
+Taken :: You try to enter the castle, but the guards bar your way with spears
+You can't go that way :: The door is securely locked
+You are now carrying the lantern :: Unlikely
+You can't carry any more items :: A massive troll bars your path
+You can't see any angels here :: You must be joking
+You can't see how to do that with an axe :: You can't see any way to do that
+You have scored a point :: There does not seem to be any way to do that
+Now is not the time for piety :: You can't go any farther east
+To the west is a door :: The door is firmly locked
+A tunnel leads away to the south :: There is no exit in that direction
+You see nothing interesting about the chair :: You try to cross the bridge, but the planks are too old and rotten
+Maybe if you ring the doorbell, someone will answer :: A pointless endeavor
+You are empty-handed :: The palace entrance is guarded by soldiers
+You are carrying nothing :: You cannot climb the cliff
+You have scored 12 points, out of a possible 400 :: That is not possible

@@ -1,0 +1,4 @@
+train :: How do you get to work?
+train :: How do you get to the city?
+train :: How do you get to England?
+train :: How do you get to the airport?

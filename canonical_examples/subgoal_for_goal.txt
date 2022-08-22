@@ -1,0 +1,8 @@
+unlock door :: turn key
+kill troll :: use sword
+carry water :: fill bottle
+feed cat :: give food
+wash floor :: use mop
+catch butterfly :: swing net
+reach roof :: climb staircase
+study geometry :: read textbook

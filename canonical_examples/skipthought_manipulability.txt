@@ -1,0 +1,10 @@
+tree :: forest
+brick :: building
+raindrop :: thunderstorm
+pebble :: mountain
+photo :: jpg
+city :: municipality
+book :: genre
+letter :: t
+flashlight :: illumination
+article :: magazine

@@ -1,0 +1,17 @@
+car_NN tire_NN
+tree_NN leaf_NN
+hand_NN finger_NN
+house_NN roof_NN
+forest_NN tree_NN
+bathroom_NN toilet_NN
+bicycle_NN wheel_NN
+human_NN heart_NN
+human_NN hand_NN
+organism_NN cell_NN
+city_NN street_NN
+bird_NN feather_NN
+cat_NN fur_NN
+shoe_NN lace_NN
+apple_NN seed_NN
+class_NN teacher_NN
+room_NN door_NN

@@ -1,0 +1,6 @@
+What is two plus two? :: Two plus two is four.
+What is ten minus five? :: Ten minus five is five.
+What is three plus three? :: Three plus three is six.
+What is twenty plus one? :: Twenty plus one is twenty-one.
+What is fifteen minus two? :: Fifteen minus two is thirteen.
+What is seven minus six? :: Seven minus six is one.

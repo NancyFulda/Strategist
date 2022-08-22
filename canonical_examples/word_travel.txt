@@ -1,0 +1,14 @@
+airport_NN car_NN
+kitchen_NN feet_NN
+park_NN bike_NN
+hotel_NN taxi_NN
+work_NN train_NN
+school_NN bus_NN
+store_NN car_NN
+store_NN walk_NN
+island_NN boat_NN
+island_NN airplane_NN
+spain_NN airplane_NN
+country_NN airplane_NN
+france_NN airplane_NN
+france_NN train_NN

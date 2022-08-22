@@ -1,0 +1,43 @@
+stop :: stabilize
+hold still :: stabilize
+stay right there :: stabilize
+that's good, now stay put :: stabilize
+don't move :: stabilize
+up :: launch
+take off :: launch
+lift off :: launch
+go up :: launch
+launch please :: launch
+can you launch :: launch
+take her up :: launch
+go to an altitude of 20 feet :: launch
+down :: land
+bring her down :: land
+go to the ground :: land
+land please :: land
+bring her in for a nice soft landing :: land
+go to an altitude of 0 feet :: land 
+go forward :: forward
+move forward :: forward
+advance 20 feet :: forward
+now come forward a bit :: forward
+that's right, keep going :: forward
+back up :: backward
+can you go backward :: backward
+back up :: backward
+now back up a bit :: backward
+scoot back 20 feet :: backward
+can you turn around :: backward
+reverse :: backward
+move sideways :: tilt left
+slide a bit to the left :: tilt left
+can you go to the left :: tilt left
+move sideways :: tilt right
+slide a bit to the right :: tilt right
+can you go to the right :: tilt right
+left 90 degrees :: turn left
+rotate left :: turn left
+go left :: turn left
+right 90 degrees :: turn right
+rotate right :: turn right
+go right :: turn right

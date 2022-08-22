@@ -1,0 +1,6 @@
+cat_NN sleep_NN
+villain_NN destruction_NN
+bee_NN honey_NN
+businessman_NN money_NN
+student_NN grade_NN
+baby_NN milk_NN

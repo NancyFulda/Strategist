@@ -1,0 +1,10 @@
+win_VB lose_VB
+come_VB go_VB
+take_VB give_VB
+admit_VB deny_VB
+float_VB sink_VB
+harm_VB heal_VB
+enter_VB exit_VB
+ascend_VB descend_VB
+awake_VB asleep_VB
+rise_VB fall_VB

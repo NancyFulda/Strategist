@@ -1,0 +1,11 @@
+unlock_VB key_NN
+enter_VB door_NN
+kill_VB sword_NN
+carry_VB backpack_NN
+feed_VB food_NN
+catch_VB net_NN
+lift_VB pulley_NN
+read_VB glasses_NN
+drink_VB bottle_NN
+see_VB light_NN
+hide_VB darkness_NN

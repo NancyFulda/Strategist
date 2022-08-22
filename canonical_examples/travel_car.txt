@@ -1,0 +1,5 @@
+car :: How do you get to work?
+car :: How do you get to the airport?
+car :: How do you get to the library?
+car :: How do you get to the store?
+car :: How do you get to the city?

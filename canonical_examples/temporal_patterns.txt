@@ -1,0 +1,3 @@
+morning_NN evening_NN
+first_JJ last_JJ
+begin_VB end_VB

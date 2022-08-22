@@ -1,0 +1,7 @@
+How do you car? :: turn key in ignition
+How do you restaurant? :: order from the menu
+How do you taxi? :: call taxi service
+How do you telephone? :: enter phone number
+How do you romance? :: go on a date
+How do you attack? :: aim weapon at enemy
+How do you friend? :: make time for each other

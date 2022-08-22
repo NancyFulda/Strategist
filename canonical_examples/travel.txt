@@ -1,0 +1,15 @@
+How do you get to the airport? :: taxi
+How do you get to the airport? :: car 
+How do you get to the airport? :: train
+How do you get to the park? :: bike
+How do you get to the kitchen? :: walk
+How do you get to a hotel? :: car
+How do you get to a hotel? :: cab
+How do you get to work? :: car
+How do you get to work? :: subway
+How do you get to an island? :: boat
+How do you get to an island? :: airplane
+How do you get to the fourth floor? :: elevator
+How do you get to the fourth floor? :: stairs
+How do you travel to Spain? :: train
+How do you travel to Spain? :: airplane

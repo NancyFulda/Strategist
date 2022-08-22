@@ -1,0 +1,8 @@
+kill troll :: troll dies
+water plant :: plant grows
+hurt person :: person gets angry
+drop ball :: ball falls
+help child :: child is happy
+cut finger :: finger bleeds
+lift object :: object rises
+unlock door :: door opens

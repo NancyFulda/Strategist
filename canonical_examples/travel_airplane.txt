@@ -1,0 +1,5 @@
+airplane :: How do you get to Hawaii?
+airplane :: How do you get to Washington, DC?
+airplane :: How do you get to Australia?
+airplane :: How do you get to France?
+airplane :: How do you get to Tahiti?

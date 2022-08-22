@@ -1,0 +1,6 @@
+What is two plus two? :: Four.
+What is three times seven? :: Twenty-one.
+What is four times two? :: Eight.
+What is ten minus one? :: Nine.
+What is nine divided by three? :: Three.
+What is seven minus six? :: One.

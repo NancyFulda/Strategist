@@ -1,0 +1,14 @@
+tumble cliff :: climb cliff
+push rainbow :: follow rainbow
+pull mighty :: pull monkey
+cast white :: cast spell
+pour dimly lit :: pour cold water
+shout lit :: read book
+drop song :: sing song
+startle chirping :: muffle chirping
+flash small window :: examine small window
+drag south side :: examine south side
+get trees :: shake trees
+ameliorate house :: redecorate house
+urbanize beautiful colonial :: admire beautiful colonial
+examine east :: go east

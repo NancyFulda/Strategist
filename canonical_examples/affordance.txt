@@ -1,0 +1,15 @@
+song_NN sing_VB
+water_NN drink_VB
+book_NN read_VB
+food_NN eat_VB
+coat_NN wear_VB
+car_NN drive_VB
+horse_NN ride_VB
+gift_NN give_VB
+enemy_NN attack_VB
+word_NN say_VB
+door_NN open_VB
+treeNN climb_VB
+wound_NN heal_VB
+disease_NN cure_VB
+picture_NN paint_VB

@@ -1,0 +1,13 @@
+How do you get to the airport? :: In a taxi.
+How do you get to the park? :: On a bike.
+How do you get to the kitchen? :: You walk.
+How do you get to a hotel? :: You drive your car.
+How do you get to a hotel? :: You take a cab.
+How do you get to work? :: You would probably take a car, but you might take the train.
+How do you get to an island? :: You take a boat.
+How do you get to an island? :: You take an airplane.
+How do you get to the fourth floor? :: You take an elevator.
+How do you get to the fourth floor? :: You take the stairs.
+How do you travel if your leg is broken? :: In a wheelchair.
+How do you travel to Spain? :: On the train.
+How do you travel to Spain? :: In an airplane.

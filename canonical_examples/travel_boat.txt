@@ -1,0 +1,4 @@
+boat :: How do you get to an island?
+boat :: How do you get across the river?
+boat :: How do you get to the Statue of Liberty?
+boat :: How do you get to Alcatraz?

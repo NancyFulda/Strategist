@@ -1,0 +1,21 @@
+A large, mist-shrouded mountain is visible to the east :: A large boulder is sitting nearby
+You can hear birds chirping in the distance :: A little bird flutters from branch to branch, singing a cheerful song
+A narrow path twines through the undergrowth to your left :: A small ring draws your attention
+You lift the elvish sword from the mantlepiece :: Something sparkles among the rocks at the bottom of the river
+The hammer is now lying on the ground :: Acorns lie scattered along the ground
+The binoculars have been dropped :: Inside the glass cabinet is a jewel-encrusted egg
+Goggles: taken, spectacles: taken, boulder: it's too heavy to lift, pretty glass box: you're afraid it might break :: On the table you see: a bottle of water, a loaf of bread, a pair of chopsticks, a couple of pebbles, and an old, crumbling manuscript in a neatly-written hand
+The forest is dense and impenetrable, overlapping roots and trees the size of giants :: There is a pair of spectacles here
+I wouldn't know how to do that with a troll :: The troll stares at you with a baleful eye
+Your health is at 27/30 :: The dog continues to bark
+A footbridge leads toward the castle in the north :: The little cat looks at you mournfully
+You can't be serious :: If only there was some way to get past the guards
+You can't see any wizard here :: The wizard shouts and begins mumbling an incantation
+There is nothing interesting about the chair :: The room contains: a chair, a fireplace, a coat rack, and a floor lamp
+You read the newspaper :: Maybe you should look for something to read
+Talk is cheap :: Maybe you should try talking to him
+You pick up the bucket of water :: There is a bucket of water here
+Large trees are dotted about the meadow :: A particularly large tree attracts your attention
+The swamp is wet and murky :: You notice that the floor is wet
+Giraffes like to eat alfalfa :: You recall that giraffes like to eat alfalfa
+A pointless endeavor :: Maybe if you ring the doorbell, someone will answer
